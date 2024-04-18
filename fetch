@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cp /Library/Keyboard\ Layouts/Hungarian_Win.keylayout .
+
