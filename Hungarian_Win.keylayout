@@ -377,7 +377,7 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="3">
-            <key code="0" output="ą"/>
+            <key code="0" output="ä"/>
             <key code="1" output="ß"/>
             <key code="2" output="∂"/>
             <key code="3" output="["/>
@@ -489,7 +489,7 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="4">
-            <key code="0" output="Ą"/>
+            <key code="0" output="Ä"/>
             <key code="1" output="ż"/>
             <key code="2" output="Ž"/>
             <key code="3" output="ž"/>
