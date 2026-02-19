@@ -1,4 +1,0 @@
-#!/bin/sh
-
-sudo cp Hungarian_Win.keylayout ~/Library/Keyboard\ Layouts/
-
